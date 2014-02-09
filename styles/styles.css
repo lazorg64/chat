@@ -1,5 +1,11 @@
-div.header {
 
+
+
+div.header {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 0.75em;
+    width:500px;
+    margin:0 auto;
     height: 40px;
     background-color: #c8ff87;
     border-radius: 10px;
@@ -10,7 +16,10 @@ div.header {
 }
 
 div.footer {
-
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 0.75em;
+    width:500px;
+    margin:0 auto;
     height: 60px;
     background-color: #fff731;
     border-radius: 10px;
@@ -41,26 +50,27 @@ div.chatblock {
 }
 
 div.editblock {
-
+    margin: 0 auto;
+    width: 94%;
     float: left;
-    height: 12%;
+    height: 16%;
     margin-top: 5px;
     border-radius: 10px;
     padding-left: 10px;
     background-color: #79ff4e;
-    padding-top: 10px;
+    padding-top: 5px;
     padding-right: 10px;
 }
 
 #chat {
-    min-width: 400px;
-    min-height: 400px;
+    min-width: 310px;
+    min-height: 300px;
     float: left;
     margin: 10px;
     padding: 10px;
     background-color: rgb(200, 255, 135);
-    width: 400px;
-    height: 500px;
+    width: 310px;
+    height: 960px;
     opacity: 0.75;
     border-radius: 10px;
 
@@ -68,25 +78,43 @@ div.editblock {
 
 #sendbutton {
     float: right;
-    height: 68%;
-    width: 30%;
+    height: 37px;
+    width: 120px;
+    margin:0 auto;
 }
 
-#message {
+#messageblock {
 
     float: left;
-    height: 80%;
-    width: 65%;
-    font-size: 20px;
+    height: 100px;
+    width: 280px;
+    margin-bottom: 10px;
+    margin-right:10px;
+
+
+
+}
+
+
+
+
+div.message{
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-size: 0.75em;
+    width: 98%;
+    margin:5px auto;
+    padding: 5px;
+    background-color: #31d0ff;
+
 
 }
 
 div.container {
     margin:0 auto;
-
+    margin-top:10px;
     background-image: url("../images/bg6.png");
-    width: 1250px;
-    height: 1100px;
+    width: 1300px;
+    height: 1000px;
     border-radius: 10px;
 }
 
@@ -95,22 +123,23 @@ div.sidebar {
     margin: 10px;
 
     background-color: rgb(121, 255, 78);
-    width: 500px;
+    width: 350px;
     height: 500px;
     opacity: 0.5;
     border-radius: 10px;
 }
 
 div.room {
-    margin: 10px;
-    padding: 10px;
-    width: 1000px;
+    float:left;
+    width: 950px;
     height: 1000px;
-    border-radius: 10px;
+
     background-image: url("../images/room.png");
 }
 
 body {
+    padding: 15px;
+    margin: 0;
     background-image: url("../images/bg4.png");
 }
 

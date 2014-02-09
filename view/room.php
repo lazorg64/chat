@@ -4,34 +4,38 @@ include("view/header.php");
 
     <script>
         $(function() {
-            $( "#chat" ).draggable();
             $("#sendbutton").button();
-            $("#message").addClass("ui-corner-all");
-            $( "#chat" ).resizable();
+
         });
 
     </script>
 
 
+<div class="ui-state-highlight ui-corner-all"><?php echo $roomname; ?></div>
+
+
 
 
     <div class="container">
-        <div id="chat">
 
-            <div class="chatblock">
-                <p>Здесь чат</p>
-                <p>Блок можно двигать</p>
-            </div>
-            <div class="editblock">
-
-                <textarea cols="30" id="message"></textarea>
-                <div id="sendbutton">Отправить</div>
-            </div>
-
-        </div>
 
         <div class="room">
             content
+        </div>
+
+        <div id="chat">
+            <div class="chatblock">
+                <?php
+                while ($row = mysql_fetch_row($messages))
+                {
+                    echo "<div class=\"message ui-corner-all\">".$row[0]." : ".$row[2]."</div>";
+                }
+                ?>
+            </div>
+            <div class="editblock">
+                <textarea cols="30" id="messageblock" class="ui-corner-all"></textarea>
+                <div id="sendbutton">Отправить</div>
+            </div>
         </div>
     </div>
 

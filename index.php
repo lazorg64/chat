@@ -1,5 +1,9 @@
 <?php
+    include("model/db_connector.php");
+
     error_reporting(0);
+
+
 
 
     $action = $_GET['action'];
@@ -20,8 +24,5 @@
     }
 
 
-
-
-
-
+    mysql_close($link);
 ?>

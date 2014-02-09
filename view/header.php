@@ -10,6 +10,8 @@
 </head>
 <body>
 
-<div class="header"><h1>Заголовок здесь</h1></div>
+
+
+<div class="header"><h1 align="center"><?php echo $header; ?></h1></div>
 
 

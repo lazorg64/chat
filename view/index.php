@@ -6,22 +6,22 @@ include("view/header.php");
 
     <div class="container">
 
-        <div id="room1" class="roomprev">
+        <div id="1" class="roomprev">
         </div>
 
-        <div id="room2" class="roomprev">
+        <div id="2" class="roomprev">
         </div>
 
-        <div id="room3" class="roomprev">
+        <div id="3" class="roomprev">
         </div>
 
-        <div id="room4" class="roomprev">
+        <div id="4" class="roomprev">
         </div>
 
-        <div id="room5" class="roomprev">
+        <div id="5" class="roomprev">
         </div>
 
-        <div id="room6" class="roomprev">
+        <div id="6" class="roomprev">
         </div>
 
 
