@@ -7,8 +7,6 @@
 </head>
 <body>
 
-
-
 <div>DIV</div>
 
 

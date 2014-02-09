@@ -1,0 +1,109 @@
+div.header {
+    height: 60px;
+    background-color: rgb(86, 70, 79);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
+
+}
+
+div.roomprev {
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    float: left;
+    height: 300px;
+    width: 400px;
+    background-color: blue;
+    background-image: url(images/bg.png);
+    border-radius: 10px;
+}
+
+div.chatblock {
+    height: 80%;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(36, 203, 20);
+}
+
+div.editblock {
+
+    float: bottom;
+    height: 12%;
+    margin-top: 5px;
+    border-radius: 10px;
+    padding-left: 10px;
+    background-color: black;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+#chat {
+    min-width: 400px;
+    min-height: 400px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(0, 203, 203);
+    width: 400px;
+    height: 500px;
+    opacity: 0.75;
+    border-radius: 10px;
+
+}
+
+#sendbutton {
+    float: right;
+    height: 68%;
+    width: 30%;
+}
+
+#message {
+
+    float: left;
+    height: 80%;
+    width: 65%;
+    font-size: 20px;
+
+}
+
+div.container {
+    float: left;
+
+    margin-left: 5%;
+    margin-right: 5%;
+
+    background-image: url(images/bg6.png);
+    width: 1250px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+div.sidebar {
+    float: left;
+    margin: 10px;
+
+    background-color: rgb(0, 203, 203);
+    width: 500px;
+    height: 500px;
+    opacity: 0.5;
+    border-radius: 10px;
+}
+
+div.room {
+    margin: 10px;
+/ / padding : 10 px;
+    width: 1000px;
+    height: 1000px;
+    border-radius: 10px;
+    background-image: url(images/room.png);
+}
+
+body {
+    background-image: url(images/bg4.png);
+}
+
+
