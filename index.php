@@ -1,20 +1,24 @@
 <?php
     error_reporting(0);
-    include("view/header.php");
+
 
     $action = $_GET['action'];
-    if($action == null)
+    switch($action)
     {
-        echo "NULL";
+        default:
+            include("controller/index.php");
+            break;
+        case "login":
+            include("controller/login.php");
+            break;
+        case "room":
+            include("controller/room.php");
+            break;
     }
-    else
-    {
-        echo "NOT NULL";
-    }
 
 
 
 
 
-    include("view/footer.php");
+
 ?>
