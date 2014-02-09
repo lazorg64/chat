@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f554104e-b285-4bd7-af2f-84c2a0fb25ae" name="Default" comment="">
+      <change type="MOVED" beforePath="C:\xampp\htdocs\chat\images\bg.png" afterPath="$PROJECT_DIR$/view/images/bg.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\chat\images\bg2.png" afterPath="$PROJECT_DIR$/view/images/bg2.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\chat\images\bg3.png" afterPath="$PROJECT_DIR$/view/images/bg3.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\chat\images\bg4.png" afterPath="$PROJECT_DIR$/view/images/bg4.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\chat\images\bg5.png" afterPath="$PROJECT_DIR$/view/images/bg5.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\chat\images\bg6.png" afterPath="$PROJECT_DIR$/view/images/bg6.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\chat\images\room.png" afterPath="$PROJECT_DIR$/view/images/room.png" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\chat\styles\styles.css" afterPath="$PROJECT_DIR$/view/styles/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/header.php" afterPath="$PROJECT_DIR$/view/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chat.iws" />
@@ -28,7 +38,7 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
+            <state line="15" column="0" selection-start="199" selection-end="199" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="442">
               <folding />
             </state>
           </provider>
@@ -37,7 +47,7 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/view/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="146" selection-end="146" vertical-scroll-proportion="0.17037863" vertical-offset="0" max-vertical-offset="898">
+            <state line="12" column="0" selection-start="206" selection-end="206" vertical-scroll-proportion="0.2271715" vertical-offset="0" max-vertical-offset="898">
               <folding />
             </state>
           </provider>
@@ -75,9 +85,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/view/footer.php" />
         <option value="$PROJECT_DIR$/view/styles/styles.css" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/view/header.php" />
       </list>
     </option>
@@ -157,6 +167,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="styles" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -168,6 +182,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -281,7 +299,15 @@
       <created>1391963047376</created>
       <updated>1391963047376</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new commit 5&#10;">
+      <created>1391963091119</created>
+      <updated>1391963091119</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new commit 5&#10;">
+      <created>1391963196921</created>
+      <updated>1391963196921</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -298,7 +324,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947367" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3105263" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -326,7 +352,8 @@
     <MESSAGE value="new commit 2&#10;" />
     <MESSAGE value="new commit 354&#10;" />
     <MESSAGE value="new commit 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit 4" />
+    <MESSAGE value="new commit 5&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit 5&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -341,36 +368,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="75" selection-end="75" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
+        <state line="15" column="0" selection-start="199" selection-end="199" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="442">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/bg3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="18" selection-start="312" selection-end="312" vertical-scroll-proportion="0.44517186" vertical-offset="0" max-vertical-offset="1955">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/bg4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/view/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="146" selection-end="146" vertical-scroll-proportion="0.17037863" vertical-offset="0" max-vertical-offset="898">
+        <state line="12" column="0" selection-start="206" selection-end="206" vertical-scroll-proportion="0.2271715" vertical-offset="0" max-vertical-offset="898">
           <folding />
         </state>
       </provider>
