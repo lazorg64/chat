@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f554104e-b285-4bd7-af2f-84c2a0fb25ae" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/footer.php" afterPath="$PROJECT_DIR$/view/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/header.php" afterPath="$PROJECT_DIR$/view/header.php" />
+    <list default="true" id="f554104e-b285-4bd7-af2f-84c2a0fb25ae" name="Default" comment="new commit 2&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chat.iws" />
@@ -39,7 +37,7 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/view/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="4" selection-start="56" selection-end="56" vertical-scroll-proportion="0.1973466" vertical-offset="0" max-vertical-offset="603">
+            <state line="10" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.2819237" vertical-offset="0" max-vertical-offset="603">
               <folding />
             </state>
           </provider>
@@ -198,7 +196,11 @@
       <created>1391961831282</created>
       <updated>1391961831282</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new commit 2&#10;">
+      <created>1391961961784</created>
+      <updated>1391961961784</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -242,6 +244,8 @@
     <MESSAGE value="new commit" />
     <MESSAGE value="new commit 2&#10;" />
     <option name="LAST_COMMIT_MESSAGE" value="new commit 2&#10;" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -263,7 +267,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/view/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="56" selection-end="56" vertical-scroll-proportion="0.1973466" vertical-offset="0" max-vertical-offset="603">
+        <state line="10" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.2819237" vertical-offset="0" max-vertical-offset="603">
           <folding />
         </state>
       </provider>
