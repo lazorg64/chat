@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f554104e-b285-4bd7-af2f-84c2a0fb25ae" name="Default" comment="new commit 354&#10;">
+    <list default="true" id="f554104e-b285-4bd7-af2f-84c2a0fb25ae" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chat.iws" />
@@ -273,7 +273,15 @@
       <created>1391962965384</created>
       <updated>1391962965384</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new commit 4">
+      <created>1391963004368</created>
+      <updated>1391963004368</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new commit 4">
+      <created>1391963047376</created>
+      <updated>1391963047376</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -317,9 +325,8 @@
     <MESSAGE value="new commit" />
     <MESSAGE value="new commit 2&#10;" />
     <MESSAGE value="new commit 354&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit 354&#10;" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="new commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -354,6 +361,11 @@
         <state line="16" column="18" selection-start="312" selection-end="312" vertical-scroll-proportion="0.44517186" vertical-offset="0" max-vertical-offset="1955">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/view/header.php">
