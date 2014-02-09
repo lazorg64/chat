@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f554104e-b285-4bd7-af2f-84c2a0fb25ae" name="Default" comment="new commit 2&#10;">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/header.php" afterPath="$PROJECT_DIR$/view/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chat.iws" />
@@ -37,7 +38,7 @@
       <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/view/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.2819237" vertical-offset="0" max-vertical-offset="603">
+            <state line="6" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.16915423" vertical-offset="0" max-vertical-offset="603">
               <folding />
             </state>
           </provider>
@@ -66,6 +67,11 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="lazorg64" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="chat" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -169,6 +175,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="982" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="recentsLimit" value="5" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -226,7 +233,11 @@
       <created>1391962007079</created>
       <updated>1391962007079</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new commit 2&#10;">
+      <created>1391962251941</created>
+      <updated>1391962251941</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -293,7 +304,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/view/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="66" selection-end="66" vertical-scroll-proportion="0.2819237" vertical-offset="0" max-vertical-offset="603">
+        <state line="6" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.16915423" vertical-offset="0" max-vertical-offset="603">
           <folding />
         </state>
       </provider>
