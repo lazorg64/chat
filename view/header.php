@@ -1,10 +1,13 @@
 <html>
 <head>
-<title>Тайтл</title>
+    <meta charset="utf-8">
+    <title>Тайтл</title>
+    <link rel="stylesheet" href="styles.css" type="text/css"/>
+
 </head>
 <body>
 
 
-<div></div>
+<div>DIV</div>
 
 
