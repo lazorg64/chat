@@ -1,6 +1,18 @@
 div.header {
+
     height: 40px;
     background-color: #c8ff87;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
+
+}
+
+div.footer {
+
+    height: 60px;
+    background-color: #fff731;
     border-radius: 10px;
     margin-bottom: 10px;
     margin-top: 10px;
@@ -17,7 +29,7 @@ div.roomprev {
     height: 300px;
     width: 400px;
     background-color: #79ff4e;
-    background-image: url(images/bg.png);
+    background-image: url("../images/bg.png");
     border-radius: 10px;
 }
 
@@ -30,7 +42,7 @@ div.chatblock {
 
 div.editblock {
 
-    float: bottom;
+    float: left;
     height: 12%;
     margin-top: 5px;
     border-radius: 10px;
@@ -70,16 +82,12 @@ div.editblock {
 }
 
 div.container {
-    float: left;
+    margin:0 auto;
 
-    margin-left: 5%;
-    margin-right: 5%;
-
-    background-image: url(images/bg6.png);
+    background-image: url("../images/bg6.png");
     width: 1250px;
+    height: 1100px;
     border-radius: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
 }
 
 div.sidebar {
@@ -95,15 +103,15 @@ div.sidebar {
 
 div.room {
     margin: 10px;
-/ / padding : 10 px;
+    padding: 10px;
     width: 1000px;
     height: 1000px;
     border-radius: 10px;
-    background-image: url(images/room.png);
+    background-image: url("../images/room.png");
 }
 
 body {
-    background-image: url(images/bg4.png);
+    background-image: url("../images/bg4.png");
 }
 
 

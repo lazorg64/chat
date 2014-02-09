@@ -5,8 +5,11 @@
     $action = $_GET['action'];
     switch($action)
     {
-        default:
+        case null:
             include("controller/index.php");
+            break;
+        default:
+            include("controller/error.php");
             break;
         case "login":
             include("controller/login.php");
