@@ -2,7 +2,10 @@
 include("view/header.php");
 ?>
 
-
+    <div class="login">
+        <div class="pushlogin">
+        </div>
+    </div>
 
     <div class="container">
 
@@ -25,7 +28,16 @@ include("view/header.php");
         </div>
 
 
+
     </div>
+
+    <script>
+        $( ".login" ).click(function() {
+            //$id = $(this).attr('id');
+            $loc = "?action=login";//&id="+$id;
+            document.location.href = $loc;
+        });
+    </script>
 
     <script>
         $( ".roomprev" ).click(function() {
@@ -33,9 +45,6 @@ include("view/header.php");
             $loc = "?action=room&id="+$id;
             document.location.href = $loc;
         });
-
-
-
 
     </script>
 <?php
