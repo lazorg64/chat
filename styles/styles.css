@@ -31,15 +31,9 @@ div.footer {
 
 div.roomprev {
     margin-top: 30px;
-    margin-left: 20px;
-    margin-right: 5px;
+    margin-left: 10px;
     margin-bottom: 10px;
     float: left;
-    height: 350px;
-    width: 400px;
-    background-color: #79ff4e;
-    background-image: url("../images/bg2.png");
-    border-radius: 10px;
 }
 
 div.chatblock {
@@ -155,10 +149,103 @@ div.pushlogin{
     background-image: url("../images/bg2.png");
     border-radius: 10px;
 }
+div.regbox{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+
+}
+div.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+
+}
+p.text {
+    height:30px;
+    width: 65%;
+}
+input.datainput{
+    height:30px;
+    width: 60%;
+
+}
+div.navbar{
+    margin-left: auto;
+    margin-right: auto;
+    height: 2em;
+}
+div.selected{
+    opacity: 0.5;
+}
+img.prev{
+    height: 350px;
+    width: 390px;
+    border-radius: 10px;
+}
 body {
     padding: 15px;
     margin: 0;
     background-image: url("../images/bg4.png");
 }
 
-
+#cssmenu,
+#cssmenu ul,
+#cssmenu li #cssmenu a {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 14px;
+    font-family: Helvetica;
+    line-height: 1;
+}
+#cssmenu {
+    width: auto;
+}
+#cssmenu ul {
+    zoom: 1;
+    background: #b8d2e0 url("../images/pattern.png") top left repeat;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: 1px solid #83b0c9;
+    -moz-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+}
+#cssmenu ul:before {
+    content: '';
+    display: block;
+}
+#cssmenu ul:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+#cssmenu a,
+#cssmenu a:link,
+#cssmenu a:visited {
+    padding: 15px 20px;
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    text-shadow: 0 -1px 1px #4e8eb2;
+    border-right: 1px solid #83b0c9;
+}
+#cssmenu a:hover {
+    color: #4e8eb2;
+    text-shadow: 0 1px 1px #dce9f0;
+}
+#cssmenu li {
+    float: left;
+    border-right: 1px solid #cadde8;
+}
+#cssmenu li:hover {
+    background: #a6c7d8 url("../images/pattern.png") top left repeat;
+}
+#cssmenu li:first-child {
+    border-left: none;
+    -webkit-border-radius: 4px 0 0 4px;
+    -moz-border-radius: 4px 0 0 4px;
+    border-radius: 4px 0 0 4px;
+}

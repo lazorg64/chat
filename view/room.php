@@ -20,7 +20,7 @@ include("view/header.php");
 
 
         <div class="room">
-            content
+
         </div>
 
         <div id="chat">

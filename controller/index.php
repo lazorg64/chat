@@ -1,5 +1,5 @@
 <?php
 
-    $header = "Добро пожаловать";
+    $header = "Добро пожаловать!";
     include("view/index.php");
 ?>

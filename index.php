@@ -1,4 +1,5 @@
 
+
 <?php
     include("model/db_connector.php");
 
@@ -21,6 +22,9 @@
             break;
         case "room":
             include("controller/room.php");
+            break;
+        case "reg":
+            include("controller/reg.php");
             break;
     }
 
