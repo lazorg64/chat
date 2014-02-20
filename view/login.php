@@ -1,5 +1,9 @@
 <?php
 include("view/header.php");
+if(isset($_POST["del"]))
+{
+    setcookie($e_login,$e_password,time()-9999);
+}
 if(isset($_POST['enter']))
 {
     $e_login=$_POST['e_login'];
@@ -13,6 +17,8 @@ if(isset($_POST['enter']))
         $chek_user=true;
     }
     else echo "err";
+
+
 }
 ?>
     <form method="POST" action="index.php?action=login">
