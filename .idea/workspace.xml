@@ -2,21 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f554104e-b285-4bd7-af2f-84c2a0fb25ae" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/check.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/check.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/login.php" afterPath="$PROJECT_DIR$/view/login.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/reg.php" afterPath="$PROJECT_DIR$/view/reg.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="chat.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392899136661" ignored="false" />
+    <file path="/Dummy.txt" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392906201638" ignored="false" />
     <file path="/room.php" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392725364022" ignored="false" />
     <file path="/header.php" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392713353841" ignored="false" />
-    <file path="/index.php" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392368886184" ignored="false" />
-    <file path="/login.php" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392904322651" ignored="false" />
+    <file path="/index.php" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392914505455" ignored="false" />
+    <file path="/login.php" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392915169812" ignored="false" />
     <file path="/Login.php" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392216619755" ignored="false" />
     <file path="/styles.css" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392713626921" ignored="false" />
-    <file path="/reg.php" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392905940157" ignored="false" />
+    <file path="/reg.php" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392914998385" ignored="false" />
     <file path="/add_mess.php" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392722372547" ignored="false" />
+    <file path="/check.php" changelist="f554104e-b285-4bd7-af2f-84c2a0fb25ae" time="1392914450495" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +40,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="room.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/room.php">
+      <file leaf-file-name="reg.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/reg.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="26" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0">
+            <state line="95" column="0" selection-start="1663" selection-end="1663" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reg.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/reg.php">
+      <file leaf-file-name="check.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/check.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="11" selection-start="1568" selection-end="1568" vertical-scroll-proportion="7.6923075">
+            <state line="23" column="38" selection-start="537" selection-end="537" vertical-scroll-proportion="-2.7692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="-2.6153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="87" selection-start="179" selection-end="179" vertical-scroll-proportion="-3.9230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller/check.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="26" selection-start="33" selection-end="33" vertical-scroll-proportion="-1.3076923">
               <folding />
             </state>
           </provider>
@@ -57,25 +97,7 @@
       <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/view/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="43" selection-start="104" selection-end="104" vertical-scroll-proportion="0.13682093">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add_mess.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/view/add_mess.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="22" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="load_messes.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controller/load_messes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="25" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
+            <state line="124" column="0" selection-start="2522" selection-end="2522" vertical-scroll-proportion="0.6838843">
               <folding />
             </state>
           </provider>
@@ -84,7 +106,7 @@
       <file leaf-file-name="error.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controller/error.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="3" column="2" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.9615384">
               <folding />
             </state>
           </provider>
@@ -93,7 +115,7 @@
       <file leaf-file-name="reg.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controller/reg.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="59" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="59" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -102,25 +124,7 @@
       <file leaf-file-name="add_mess.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controller/add_mess.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="22" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controller/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controller/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="39" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -154,9 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/controller/room.php" />
-        <option value="$PROJECT_DIR$/controller/index.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/controller/reg.php" />
         <option value="$PROJECT_DIR$/controller/login.php" />
         <option value="$PROJECT_DIR$/view/index.php" />
@@ -168,6 +169,9 @@
         <option value="$PROJECT_DIR$/controller/load_messes.php" />
         <option value="$PROJECT_DIR$/view/add_mess.php" />
         <option value="$PROJECT_DIR$/view/room.php" />
+        <option value="$PROJECT_DIR$/controller/check.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/view/check.php" />
         <option value="$PROJECT_DIR$/view/reg.php" />
         <option value="$PROJECT_DIR$/view/login.php" />
       </list>
@@ -303,7 +307,7 @@
       <recent name="C:\xampp\htdocs\chat\controller" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.index.php">
+  <component name="RunManager" selected="PHP Script.register.php">
     <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <RunnerSettings RunnerId="PhpScriptDebugRunner" />
@@ -321,8 +325,12 @@
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="register.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/view/reg.php">
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.register.php" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -438,19 +446,24 @@
       <created>1392899141029</created>
       <updated>1392899141029</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="я щас попробовал с куками, но херня какая-то&#10;куки пишут, но он не удаляет их&#10;сделал специальную кнопку для удаления">
+      <created>1392906206005</created>
+      <updated>1392906206005</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1364" height="726" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20430107" sideWeight="0.67132866" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20430107" sideWeight="0.67132866" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32881355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -460,7 +473,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -514,7 +526,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="...." />
+    <option name="LAST_COMMIT_MESSAGE" value="я щас попробовал с куками, но херня какая-то&#10;куки пишут, но он не удаляет их&#10;сделал специальную кнопку для удаления" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -540,6 +552,7 @@
     <MESSAGE value="я добоавил чтобы по кнопочке переходило на стр с регистрацией&#10;я наконец понял как там робит, более менее&#10;криво конечно." />
     <MESSAGE value="в view/reg.php &#10;добавил код который заполняет данные в бд&#10;все робит.&#10;так же я сделал так чтобы пароль шифровался(md5)&#10;сделал с помощью рекваерда обязателыми все поля для заполнения" />
     <MESSAGE value="...." />
+    <MESSAGE value="я щас попробовал с куками, но херня какая-то&#10;куки пишут, но он не удаляет их&#10;сделал специальную кнопку для удаления" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -547,41 +560,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/styles/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="14" selection-start="1177" selection-end="1177" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-34.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="71" selection-start="761" selection-end="761" vertical-scroll-proportion="-10.961538" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view/errorpage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="139" selection-end="175" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view/load_messes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="2" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controller/error.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
           <folding />
         </state>
       </provider>
@@ -596,20 +577,6 @@
     <entry file="file://$PROJECT_DIR$/controller/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controller/reg.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="59" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controller/add_mess.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -635,16 +602,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/controller/add_mess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="39" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/error.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="2" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.9615384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/reg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="59" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="26" selection-start="33" selection-end="33" vertical-scroll-proportion="-1.3076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="-2.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="87" selection-start="179" selection-end="179" vertical-scroll-proportion="-3.9230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="38" selection-start="537" selection-end="537" vertical-scroll-proportion="-2.7692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/view/reg.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="11" selection-start="1568" selection-end="1568" vertical-scroll-proportion="7.6923075">
+        <state line="95" column="0" selection-start="1663" selection-end="1663" vertical-scroll-proportion="-1.3076923">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/view/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="43" selection-start="104" selection-end="104" vertical-scroll-proportion="0.13682093">
+        <state line="124" column="0" selection-start="2522" selection-end="2522" vertical-scroll-proportion="0.6838843">
           <folding />
         </state>
       </provider>
